@@ -16,6 +16,14 @@ git init to initialize a git repository*/
 /* Staging files for a commit
 git add <file_name> OR git add . to add ALL of the files inside the folder you are in
 */
-//git commit - m "Your commit message here"
+//git commit - m "Your commit message here" the -m is to commit the modified files
 /*To view the commit:
 git log Shows us commit hash, branch name, commit message, and other metadata */
+
+/*Go to Github.com and click Create Repository. 
+    Name the repo, leave it public, keep all other options deselected. Copy URL provided
+To link your github repository: git remote add origin <URL from github repo>
+validate with: git remote -v
+*/
+
+/*To push to remote repository: git push origin master */
