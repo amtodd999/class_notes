@@ -17,3 +17,5 @@ git init to initialize a git repository*/
 git add <file_name> OR git add . to add ALL of the files inside the folder you are in
 */
 //git commit - m "Your commit message here"
+/*To view the commit:
+git log Shows us commit hash, branch name, commit message, and other metadata */
