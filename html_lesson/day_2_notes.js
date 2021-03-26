@@ -16,3 +16,4 @@ git init to initialize a git repository*/
 /* Staging files for a commit
 git add <file_name> OR git add . to add ALL of the files inside the folder you are in
 */
+//git commit - m "Your commit message here"
