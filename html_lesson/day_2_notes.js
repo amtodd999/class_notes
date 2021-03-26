@@ -26,4 +26,4 @@ To link your github repository: git remote add origin <URL from github repo>
 validate with: git remote -v
 */
 
-/*To push to remote repository: git push origin master */
+/*To push to remote repository: git push origin master test */
